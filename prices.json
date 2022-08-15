@@ -1,0 +1,236 @@
+{
+  "ixo": {
+    "usd": 0.059153
+  },
+  "kujira": {
+    "usd": 1.13
+  },
+  "secret": {
+    "usd": 1.43
+  },
+  "persistence": {
+    "usd": 0.758651
+  },
+  "umee": {
+    "usd": 0.01819895
+  },
+  "terra-krw": {
+    "usd": 9.27e-06
+  },
+  "sifchain": {
+    "usd": 0.00617471
+  },
+  "regen": {
+    "usd": 0.333484
+  },
+  "uniswap": {
+    "usd": 9.13
+  },
+  "comdex": {
+    "usd": 0.237678
+  },
+  "e-money": {
+    "usd": 0.436423
+  },
+  "certik": {
+    "usd": 0.972685
+  },
+  "terra-luna-2": {
+    "usd": 2.02
+  },
+  "cosmos": {
+    "usd": 11.8
+  },
+  "e-money-eur": {
+    "usd": 0.970641
+  },
+  "usd-coin": {
+    "usd": 1.002
+  },
+  "terrausd": {
+    "usd": 0.02632081
+  },
+  "kava": {
+    "usd": 2.26
+  },
+  "polkadot": {
+    "usd": 9.21
+  },
+  "switcheo": {
+    "usd": 0.00834228
+  },
+  "iris-network": {
+    "usd": 0.02596736
+  },
+  "sommelier": {
+    "usd": 0.358398
+  },
+  "evmos": {
+    "usd": 1.9
+  },
+  "dai": {
+    "usd": 1.001
+  },
+  "tether": {
+    "usd": 1.002
+  },
+  "chainlink": {
+    "usd": 8.99
+  },
+  "shiba-inu": {
+    "usd": 1.739e-05
+  },
+  "frax": {
+    "usd": 1.001
+  },
+  "fetch-ai": {
+    "usd": 0.102583
+  },
+  "injective-protocol": {
+    "usd": 1.87
+  },
+  "aave": {
+    "usd": 109.34
+  },
+  "axie-infinity": {
+    "usd": 19.18
+  },
+  "crypto-com-chain": {
+    "usd": 0.155554
+  },
+  "terra-luna": {
+    "usd": 9.746e-05
+  },
+  "maker": {
+    "usd": 1056.16
+  },
+  "apecoin": {
+    "usd": 6.64
+  },
+  "racoon": {
+    "usd": 0.071863
+  },
+  "crescent-network": {
+    "usd": 0.287823
+  },
+  "akash-network": {
+    "usd": 0.43197
+  },
+  "assetmantle": {
+    "usd": 0.098326
+  },
+  "echelon": {
+    "usd": 0.01020587
+  },
+  "kava-swap": {
+    "usd": 0.393116
+  },
+  "pstake-finance": {
+    "usd": 0.186362
+  },
+  "wrapped-bitcoin": {
+    "usd": 24540
+  },
+  "band-protocol": {
+    "usd": 1.79
+  },
+  "microtick": {
+    "usd": 0.68541
+  },
+  "hope-galaxy": {
+    "usd": 13.32
+  },
+  "marble": {
+    "usd": 6.17
+  },
+  "dig-chain": {
+    "usd": 0.00078786
+  },
+  "rizon": {
+    "usd": 0.02134949
+  },
+  "juno-network": {
+    "usd": 6.11
+  },
+  "vidulum": {
+    "usd": 0.03560354
+  },
+  "neta": {
+    "usd": 201.66
+  },
+  "graviton": {
+    "usd": 0.03026982
+  },
+  "provenance-blockchain": {
+    "usd": 0.0341
+  },
+  "medibloc": {
+    "usd": 0.02632909
+  },
+  "ion": {
+    "usd": 1219.21
+  },
+  "chain-2": {
+    "usd": 0.087273
+  },
+  "ki": {
+    "usd": 0.092652
+  },
+  "weth": {
+    "usd": 1982.64
+  },
+  "wrapped-moonbeam": {
+    "usd": 0.709585
+  },
+  "darcmatter-coin": {
+    "usd": 0.02051687
+  },
+  "cerberus-2": {
+    "usd": 8.52e-06
+  },
+  "stargaze": {
+    "usd": 0.0321833
+  },
+  "osmosis": {
+    "usd": 1.2
+  },
+  "bostrom": {
+    "usd": 4.1266e-08
+  },
+  "cheqd-network": {
+    "usd": 0.04006133
+  },
+  "odin-protocol": {
+    "usd": 0.1282
+  },
+  "likecoin": {
+    "usd": 0.00368804
+  },
+  "bitsong": {
+    "usd": 0.030071
+  },
+  "bitcanna": {
+    "usd": 0.01798436
+  },
+  "chihuahua-token": {
+    "usd": 0.00017269
+  },
+  "lum-network": {
+    "usd": 0.00150809
+  },
+  "rai": {
+    "usd": 2.91
+  },
+  "sentinel": {
+    "usd": 0.00103736
+  },
+  "desmos": {
+    "usd": 0.03713063
+  },
+  "starname": {
+    "usd": 0.01533346
+  },
+  "decentr": {
+    "usd": 0.02107736
+  }
+}
