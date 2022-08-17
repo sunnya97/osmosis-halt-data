@@ -1,0 +1,746 @@
+[
+    {
+        "address": "osmo1559ewmwrjfu8q3wuhmwle8fr85epdafm9u4gj0",
+        "amount": 19623
+    },
+    {
+        "address": "osmo1yahx8n40ae8yegfcdxav0c8lhzqvdp0qzheqrp",
+        "amount": 7104
+    },
+    {
+        "address": "osmo1xxntzlrgekrk7nt9xdh5fk52c2kds2r0f3njm4",
+        "amount": 5964
+    },
+    {
+        "address": "osmo1cz6rgf83j45kk9jx8gh3h288g8kekgzcyr3x7s",
+        "amount": 5592
+    },
+    {
+        "address": "osmo157lw4scpcpmg0nd8s2klekkt63qwamu0202mat",
+        "amount": 5502
+    },
+    {
+        "address": "osmo1v765tge6gfmllu8v3egzreapxlrx06ded8qpcv",
+        "amount": 4238
+    },
+    {
+        "address": "osmo107tn5s5nsznzvczjf76qhsq2fwwe6j9zjlrljp",
+        "amount": 3715
+    },
+    {
+        "address": "osmo1yn9yrgh5f3an23y8g0ktt5c6uc285lg8h7prut",
+        "amount": 3219
+    },
+    {
+        "address": "osmo1angmz8mqnucyrfllrdfwv42434w9n6mw0j8eem",
+        "amount": 2904
+    },
+    {
+        "address": "osmo13mm0ua6c20f8jup3q2g0uuw2k5n54cgkv6qd04",
+        "amount": 2481
+    },
+    {
+        "address": "osmo1707escgqp7th9d3ney5a0sr2vypvcttvz57x07",
+        "amount": 2130
+    },
+    {
+        "address": "osmo1ll9ckl5rphcjc3gkjx5377t9q7rsj9wkuyyge9",
+        "amount": 2059
+    },
+    {
+        "address": "osmo127mmczyaz74qgqmesc29nuue5r233k0n8ee0ns",
+        "amount": 1908
+    },
+    {
+        "address": "osmo1sacqt6pya3s3wf7dx0q0aygfsv86x97szdaxp9",
+        "amount": 1876
+    },
+    {
+        "address": "osmo1zgkzppe5x5kqw7ugla0jnk6frjwl85yde5tk5z",
+        "amount": 1604
+    },
+    {
+        "address": "osmo197nrt26lht5k6805f5qfmj5r3mndwcsmtzv2z9",
+        "amount": 1589
+    },
+    {
+        "address": "osmo1h2wtf356hvdm2ft2sfyrxnetv3a98g49q2w73x",
+        "amount": 1575
+    },
+    {
+        "address": "osmo1ypsvuflcpdqr2msfqu3u77pqqspgl2htdpffu6",
+        "amount": 1422
+    },
+    {
+        "address": "osmo190ypcgkmm0q4wup95dup62nvaj0h7q9h4ss4cm",
+        "amount": 1374
+    },
+    {
+        "address": "osmo1gjfegp0gznk4tlm3ymay638034w4wrdalpus59",
+        "amount": 1373
+    },
+    {
+        "address": "osmo1asrupfzjyepcjhafz2fjcz63wtslj4ue6qcwny",
+        "amount": 1325
+    },
+    {
+        "address": "osmo1vk6z2aa4hwf5kkd07248q8sm5xqzddueg2v23m",
+        "amount": 1290
+    },
+    {
+        "address": "osmo1ql3zye37yaczg8x9tvg8uutnwgj88u3qjrae2g",
+        "amount": 1287
+    },
+    {
+        "address": "osmo1ky7m39mszht0rveq9y0ramqnash6jp5kwgdd9p",
+        "amount": 1269
+    },
+    {
+        "address": "osmo1pvcm3nx4qtuljps2uu6c7teaqmzr9jvl96z579",
+        "amount": 1261
+    },
+    {
+        "address": "osmo1dl0eq4809xwzye0dcxkd03mnyn9x73ha5ftun7",
+        "amount": 1251
+    },
+    {
+        "address": "osmo1e7wvsjp8dv74gqxssteud6uwjvfww8a998q45l",
+        "amount": 1147
+    },
+    {
+        "address": "osmo1g7yz4ezef8wqsg0a6ycrxgxhsf7pxeqhvkeldu",
+        "amount": 1147
+    },
+    {
+        "address": "osmo10y6p0f0srtsgxqu9glu60wr2962jn6f3g9e5en",
+        "amount": 1118
+    },
+    {
+        "address": "osmo15c9qkygwu6cm0ncctf8cjjk7v7dwuat838ks2q",
+        "amount": 1111
+    },
+    {
+        "address": "osmo15t6d6dj89aap55a5uzsefqukd2hajspc4z8m7f",
+        "amount": 974
+    },
+    {
+        "address": "osmo1vv2jcezlrv7um50a5ye6s9pvs0ul98stusakx9",
+        "amount": 958
+    },
+    {
+        "address": "osmo19tm2nnw960kwjdd2y48cvce93z8wjz4avuwv7x",
+        "amount": 866
+    },
+    {
+        "address": "osmo16tarqee62qp6flwzjkf4w5e8f7zsp7e0gy6hae",
+        "amount": 784
+    },
+    {
+        "address": "osmo1kwuwr5tp5j3tjv9wyxpwyk0z8ntctmak96huv4",
+        "amount": 761
+    },
+    {
+        "address": "osmo14s0khxcz84vs727zzrn60mnlfymmrxrnglnd45",
+        "amount": 731
+    },
+    {
+        "address": "osmo1077a24t55xh4vgn9s04j9u794z7qkf5ml0wsrg",
+        "amount": 672
+    },
+    {
+        "address": "osmo1exm8pg9a4gaycpv0s6l2460ttwuvk5pclsf87u",
+        "amount": 617
+    },
+    {
+        "address": "osmo10qey6aqjf5wlkglp0ljjg3v6h8ws26pmpgnmw0",
+        "amount": 585
+    },
+    {
+        "address": "osmo1dfzjp5ks0g8duqvyprefy0zu3z54er52nxtrwx",
+        "amount": 580
+    },
+    {
+        "address": "osmo127pdm2umuvppet63lezvjv5flrvfyjrqsfaf6k",
+        "amount": 556
+    },
+    {
+        "address": "osmo1a9h8ffdjrhx5v4q0r5v2zxwdsgfpqv8j7qqdd9",
+        "amount": 534
+    },
+    {
+        "address": "osmo196kre5608ayevg3me4llvwt6t6f7ag2qgqs8ef",
+        "amount": 502
+    },
+    {
+        "address": "osmo1df7rt30uyjl84kks3quutq3gfayt5t3n0sprf6",
+        "amount": 488
+    },
+    {
+        "address": "osmo1waac73cpffx7suhpkvnn8w0a8s2cgzn63wd77g",
+        "amount": 488
+    },
+    {
+        "address": "osmo1hg909rmsqcfpcwlj6dp2xenuu2qvh3dkg7x5wz",
+        "amount": 484
+    },
+    {
+        "address": "osmo1q9xmjvevl47420hq5362yf5ef2000yunsvap8z",
+        "amount": 476
+    },
+    {
+        "address": "osmo1tpll6tsf4xs2ewqux8zc7w8hz2eaemtjjxe56n",
+        "amount": 475
+    },
+    {
+        "address": "osmo1runnns00ux2mw8ge3mjqg6z82nxjv76s3fxp6m",
+        "amount": 437
+    },
+    {
+        "address": "osmo160n23wqshn3pg5vwlkmu8vqf7c9h0zjc97xhsh",
+        "amount": 413
+    },
+    {
+        "address": "osmo1u8kpj6l0h4j8mvl5lw6aag4xcceulqyw7fk0c7",
+        "amount": 386
+    },
+    {
+        "address": "osmo1r4q7x7rggtxuujpszrrnpn6avc4h9hdelsn8e5",
+        "amount": 367
+    },
+    {
+        "address": "osmo1ljd6d8quzfn4zev99unxnz5x89frev3vh0qecm",
+        "amount": 363
+    },
+    {
+        "address": "osmo1ffzfm7m8lutgqg265mvuymuqxhyjlzycs0k9ud",
+        "amount": 358
+    },
+    {
+        "address": "osmo18wz3hxjwuwj2hjlh5e6gut8e309f94fk7gs4zt",
+        "amount": 346
+    },
+    {
+        "address": "osmo1tf9fp8m6w6aatcjnr94yhdntjwjwu6qve2y05t",
+        "amount": 328
+    },
+    {
+        "address": "osmo1yaemm5ptlwtxmq60kynuq0fja0e3arxeq7wyya",
+        "amount": 318
+    },
+    {
+        "address": "osmo12nh0k9ltu7y08k77zk538cz0gty0nfw8hyyl44",
+        "amount": 313
+    },
+    {
+        "address": "osmo1ju5z4yk2dpq0ckgu7exlw69csj0ay4da7ktudn",
+        "amount": 294
+    },
+    {
+        "address": "osmo14eqgrtjzqkg76q6k6thh8xrmf6tea2gvklptpg",
+        "amount": 273
+    },
+    {
+        "address": "osmo13vn7ja2rtlyjc3raddecgfauwpsq9tplq6l2er",
+        "amount": 266
+    },
+    {
+        "address": "osmo1p7ezph8q9v3evg3dq63qrep7p87tgxxu8ffl6e",
+        "amount": 262
+    },
+    {
+        "address": "osmo1zn6ptel00qs3wzju9ha2pf28y5v0pkcy0cgak7",
+        "amount": 259
+    },
+    {
+        "address": "osmo1aekcc7v4c6vxvcx5njmer68y8rrln7jxphygvn",
+        "amount": 239
+    },
+    {
+        "address": "osmo1lau9u4ne38ucz9cpe85nvm3sp6w7ngqwzdphw5",
+        "amount": 231
+    },
+    {
+        "address": "osmo1het5ulhuwssp9stmyslnmzx3y699cullcje5sc",
+        "amount": 230
+    },
+    {
+        "address": "osmo18dpnjxslnrv6jryek3weqs5ndukussumrvnmj8",
+        "amount": 224
+    },
+    {
+        "address": "osmo14xuknxpcmy5xn3aquywx2hhfhqrvk2tqty45f5",
+        "amount": 220
+    },
+    {
+        "address": "osmo1lh78a0p9p744uas9kryx4gwq3zggny07xsncgp",
+        "amount": 217
+    },
+    {
+        "address": "osmo1rk6lejeurkdjn6cvfx42gpwuhzuf3t20rsfqtz",
+        "amount": 217
+    },
+    {
+        "address": "osmo1pfnkwc2lwgqrplwhyzap62e625s83f0a2c7wxg",
+        "amount": 191
+    },
+    {
+        "address": "osmo1y8djj550x4u3cf48kh9nd486hpps4rjkf7jpyl",
+        "amount": 188
+    },
+    {
+        "address": "osmo14kr5dzuvnytyatytwx9gs4n4d8pp5jzmmk5zxx",
+        "amount": 185
+    },
+    {
+        "address": "osmo1tzwqe3uuu3tj0y7qamyn4tngs2xkgyf6lmzfxu",
+        "amount": 181
+    },
+    {
+        "address": "osmo1gx9syhl263gaztc6chkwn0yaptmtt4l24y9m4h",
+        "amount": 175
+    },
+    {
+        "address": "osmo1tcpmk8ztqs3f2rsu0yclzcnqjs7wu7pd9e45qf",
+        "amount": 165
+    },
+    {
+        "address": "osmo1ka0yduzwes79hn8hctpw7tw8hqkz6pwzzrjvy7",
+        "amount": 163
+    },
+    {
+        "address": "osmo175fm40ejc9svlampmjee3ee3wzn6qj55nvl7rv",
+        "amount": 162
+    },
+    {
+        "address": "osmo12dct39py7e4hzfyhuv080kpfnprna0adfk8ez7",
+        "amount": 156
+    },
+    {
+        "address": "osmo1940meq08et7gmxmljl6d3gxhr5hswd49smsv2k",
+        "amount": 152
+    },
+    {
+        "address": "osmo1gpczjcds2s4xhn8q2ypaqnpqr9gqv2sjqlzgdy",
+        "amount": 146
+    },
+    {
+        "address": "osmo1cxy9yf2vrpj7scw4z7fv4tam53y7s32plvjlqe",
+        "amount": 138
+    },
+    {
+        "address": "osmo1h2w0gs94wcm3swy00ls8xcdjvq568ppvx8ag3c",
+        "amount": 133
+    },
+    {
+        "address": "osmo1uc2un2zttpvpdfarcjtyp382sszkv8zjd8a5cv",
+        "amount": 127
+    },
+    {
+        "address": "osmo1ddpj3pv4vsvvhsyhaz8jekn5hsftuph8dw0nvv",
+        "amount": 119
+    },
+    {
+        "address": "osmo1xjrcxfl2gnz90y66k7c62t3vgqtz35g3aaag9x",
+        "amount": 119
+    },
+    {
+        "address": "osmo1fntu6srdll32ke62qfljnerlawc72936eexcyw",
+        "amount": 107
+    },
+    {
+        "address": "osmo1h99dx0qu6e9xu6q86gzpgh550geqawjm983vwz",
+        "amount": 104
+    },
+    {
+        "address": "osmo16r6xnvp7rmte33znnqgd7pxgae7k08w8d5uckp",
+        "amount": 96
+    },
+    {
+        "address": "osmo1qvzykan9gac2zcnwgll9zkp2y4czfygurv35vc",
+        "amount": 94
+    },
+    {
+        "address": "osmo1d4dvtuwe3du9x78q2yljkymcyntlcp9vn6fnvp",
+        "amount": 93
+    },
+    {
+        "address": "osmo1679yrs8dmska7wcsawgy2m25kwucm3z0uxyaa3",
+        "amount": 89
+    },
+    {
+        "address": "osmo1lqxwdzlxvvh700sxagcm5flw2tpmp890s76lsj",
+        "amount": 84
+    },
+    {
+        "address": "osmo13ss3q47lvqe3v3m5mhms6cdd9l53366ymxwady",
+        "amount": 81
+    },
+    {
+        "address": "osmo1x9twqvgwkkfv2vphrw8laqans78n3763xjzdqn",
+        "amount": 80
+    },
+    {
+        "address": "osmo1j42ltjjmdcrf45f2mjxaptvyp7yaqz936mf4sm",
+        "amount": 75
+    },
+    {
+        "address": "osmo1pu0qr2dgyku4ca3s6dlugehjjmwamxtx47tpt8",
+        "amount": 75
+    },
+    {
+        "address": "osmo1237dyvth38gr8zkkqpylvxchvzqqkehcqplnav",
+        "amount": 71
+    },
+    {
+        "address": "osmo108a3mqnnyv86neuh2q4vdlu33ja7fhqu86r566",
+        "amount": 64
+    },
+    {
+        "address": "osmo1yxv7cgn5wlh63jzrrqeg8cxw39qjl8qqwqsxzc",
+        "amount": 64
+    },
+    {
+        "address": "osmo14gayavu8hvy2q64wzj8czvj9nrjywxvn2ppw7m",
+        "amount": 62
+    },
+    {
+        "address": "osmo1sw5ve7yejnyfd8h64peje4v0adj3fdpxafh8l8",
+        "amount": 62
+    },
+    {
+        "address": "osmo18086apu4qqwks7f0z92ewax2wcr4a7twcxwgg5",
+        "amount": 55
+    },
+    {
+        "address": "osmo1gjpwrzlmhgly72fjksyc88umafw8599q5a2eu0",
+        "amount": 53
+    },
+    {
+        "address": "osmo1ypu2letxakr2f6falc6psgf6kzvpscaeqvjz74",
+        "amount": 52
+    },
+    {
+        "address": "osmo148femx8zsf726gw2772usvwfe6yysm2z7ychzn",
+        "amount": 50
+    },
+    {
+        "address": "osmo1ma04tv0lhcjqtwpjyrv6zqm2n0ngrctzk3j82a",
+        "amount": 47
+    },
+    {
+        "address": "osmo1zqwxrxfjtuc02qhz82s7uwvss6n0y2flc8d3ey",
+        "amount": 47
+    },
+    {
+        "address": "osmo1scdmerp7mh6t8kgqm70zmrjdzrv6elwc3nlcp4",
+        "amount": 44
+    },
+    {
+        "address": "osmo1e574qju4ceynu2sq7azmpkgkfw396djv7hj3ef",
+        "amount": 43
+    },
+    {
+        "address": "osmo14lskljerzdrw0xe7e3p9t4n3xfgrm2arvqtu67",
+        "amount": 39
+    },
+    {
+        "address": "osmo1pj0vu2yg5v2luskggp5ldm9pdrpeh8zl6q4l2p",
+        "amount": 37
+    },
+    {
+        "address": "osmo1zsqulk3gv3gmj698gmzxsxrp0eh79g2ljtqjl5",
+        "amount": 37
+    },
+    {
+        "address": "osmo17ethph04s47p0ctzl27x6kaefpwuak9vh2yqh8",
+        "amount": 36
+    },
+    {
+        "address": "osmo19zf93r5uf63x9anlpfzagn0xu35vtfjkpttecl",
+        "amount": 36
+    },
+    {
+        "address": "osmo1lkd98pq7ea0xxx7nx3tteayjfd0k5hq78xckh0",
+        "amount": 36
+    },
+    {
+        "address": "osmo1psz0dvuka0du625h8hfwy0gdlu2etmknwfnjnr",
+        "amount": 36
+    },
+    {
+        "address": "osmo12vt6vh7k78yud2ln9qcx7e6le7cjv4ugw3578w",
+        "amount": 34
+    },
+    {
+        "address": "osmo1fq8an6g4haa9x5sftws3l7m3psp8dw8q3k4pj7",
+        "amount": 34
+    },
+    {
+        "address": "osmo1cz5d02s8h55q5eed0vl27mqznk7dlsrh8qs5cn",
+        "amount": 31
+    },
+    {
+        "address": "osmo1pw4j58t52qe265q3j99h3fpgz5zkxej6ulqqy0",
+        "amount": 31
+    },
+    {
+        "address": "osmo1s2a7rckcky6jmhncxwy0xtwf2ymg87puaj4z2h",
+        "amount": 30
+    },
+    {
+        "address": "osmo1v20zwslfewgjayg7lyu54v83dtxr5h6u30y408",
+        "amount": 30
+    },
+    {
+        "address": "osmo1822yk6575y2lp6yy3ruzl8fmhqswz2hv5a9hfg",
+        "amount": 29
+    },
+    {
+        "address": "osmo1vrml8rkxcstrneqv208wmd9f3yd5uwkwc84aga",
+        "amount": 29
+    },
+    {
+        "address": "osmo15qqeu3mj4y4f0wu5758ym592n4aghynxgfx4cm",
+        "amount": 28
+    },
+    {
+        "address": "osmo1649urevvpvlmljf3nwgsfmuq7uxnz8ua6djrwx",
+        "amount": 28
+    },
+    {
+        "address": "osmo1dpxsw03kvdndml7ft9t5sfqfcr8jw2w6a0f09n",
+        "amount": 28
+    },
+    {
+        "address": "osmo1l3n9ueyag6klx7a7xz4nnaav44w698mlka9ywp",
+        "amount": 28
+    },
+    {
+        "address": "osmo1xdu8wqnsv458vr8z77g99rv46djdn9adhfglr2",
+        "amount": 28
+    },
+    {
+        "address": "osmo1g692jde5e7nqpml4rmxgge22m3qvft8u88z3dz",
+        "amount": 26
+    },
+    {
+        "address": "osmo103evjvmm4fqp9sygpfs30lghmujr7pulhdd55t",
+        "amount": 25
+    },
+    {
+        "address": "osmo1s02ux6wssyh6h72sggrnq9tzksa7fuxrpuauwc",
+        "amount": 24
+    },
+    {
+        "address": "osmo1556xvf0m3jmr3zz2vujxz2xrpr8cmftpduz3h9",
+        "amount": 23
+    },
+    {
+        "address": "osmo17lylkfrex48yuewd3dw2j9vned3wgqcgkan3n3",
+        "amount": 22
+    },
+    {
+        "address": "osmo17dy5htsncg7mjyf68ecqqangrrgqjst40r5mwv",
+        "amount": 20
+    },
+    {
+        "address": "osmo1l5nf5vws4h2w8zx9k6xnrwzzlp8e9zjxet9j9w",
+        "amount": 20
+    },
+    {
+        "address": "osmo1s3mjnhtz6e4kd8kjc3gp83jlac74jcyfkh4pv8",
+        "amount": 20
+    },
+    {
+        "address": "osmo14kx637jvpqt2ryr4wlcecduljel84qup05udp3",
+        "amount": 19
+    },
+    {
+        "address": "osmo1py7vnejer4auv8e0dyexvgkas4q08wppe2pmj5",
+        "amount": 19
+    },
+    {
+        "address": "osmo1479pfgqxtznqqsdl2gs8mgxzevmglj4tmr3av6",
+        "amount": 18
+    },
+    {
+        "address": "osmo1rtcsf0v9h8tl597g4c0cnxlrz8jh4320wurgsz",
+        "amount": 18
+    },
+    {
+        "address": "osmo10wtesffte4ksh563d28s5y3ct05g6vkmj9ycge",
+        "amount": 17
+    },
+    {
+        "address": "osmo16cyrapn4udh03r54mznsem8z42vhdksxyge574",
+        "amount": 17
+    },
+    {
+        "address": "osmo1fkjh4gyxrr4ttg7q3wpzgxds2jnz2ay2qw86e5",
+        "amount": 15
+    },
+    {
+        "address": "osmo1sv0tmu5sdeuyevy84gdssa56mxxguhg459e949",
+        "amount": 15
+    },
+    {
+        "address": "osmo1z9w2xyjvz9punnkyw53wcpxerpd8mah5wazzgt",
+        "amount": 15
+    },
+    {
+        "address": "osmo1xfuras3838c8ln3xkmzs7f5kh5m5c6g95rcyh0",
+        "amount": 14
+    },
+    {
+        "address": "osmo16k3geeu06l2pmus7g65zwusq76vvg22rqjmeys",
+        "amount": 13
+    },
+    {
+        "address": "osmo1kwc9dxx8zecrtax6fejskm6m5puxvza394gksk",
+        "amount": 13
+    },
+    {
+        "address": "osmo1r4sqkm76t2qdsynlstyyzumyxaqcz99cvxtd7r",
+        "amount": 13
+    },
+    {
+        "address": "osmo1tut3tsz48xu8vsxgfsjk7vjka8dw56tgh3lw8s",
+        "amount": 13
+    },
+    {
+        "address": "osmo1pl8pp708a9wnx7d2k3etat9kyphyzj4ekugrxj",
+        "amount": 12
+    },
+    {
+        "address": "osmo13j9k2hcc4nppcmc5ertjxhngatxdu3r4qjxg02",
+        "amount": 11
+    },
+    {
+        "address": "osmo1xkvl8pyela9lc7tw6x8tg5xtykph42a7unwy8h",
+        "amount": 11
+    },
+    {
+        "address": "osmo15v7t5h3za0laxfv8ydzacfrwuyey7rp7rgwaam",
+        "amount": 9
+    },
+    {
+        "address": "osmo1mea8ylk49sx9tr24glm4yaza3nlqcu38pv9fhn",
+        "amount": 8
+    },
+    {
+        "address": "osmo19jk5xruuhkemyguj33gytcxjeuc49mlwkrhh30",
+        "amount": 7
+    },
+    {
+        "address": "osmo16qrmvjmj2ms4klm6wyk9frfzwqteftpl4lng3s",
+        "amount": 5
+    },
+    {
+        "address": "osmo1ac7gqzvs6umzp7gsz6kp84st2lg3wjju2h3w49",
+        "amount": 5
+    },
+    {
+        "address": "osmo1pvhkpekjnydpzfszfqx5n8dwawrmtay0dezqqt",
+        "amount": 5
+    },
+    {
+        "address": "osmo1r03jnlttptqj5kzg7l6cyj396a3lt0e695s5rf",
+        "amount": 5
+    },
+    {
+        "address": "osmo1wg3nssp6zyr9s62cuvz778dnf4d0pzc5te2a02",
+        "amount": 5
+    },
+    {
+        "address": "osmo1d903k8uquk27lkdr9848jalgfqqgmc8p73ftu5",
+        "amount": 4
+    },
+    {
+        "address": "osmo1wt60xsmg797239z057mmewsuq4emun4m66wea7",
+        "amount": 4
+    },
+    {
+        "address": "osmo1yww6dfhdkuxf5xv4075prv9qsjlfvt52addwh4",
+        "amount": 4
+    },
+    {
+        "address": "osmo19sh8xhxk5fsd62pkrds0fqkhpc8j2gpjsyhh2z",
+        "amount": 3
+    },
+    {
+        "address": "osmo1rlqc49ts8dkyjusznqjgkwv708286ja3vs2755",
+        "amount": 3
+    },
+    {
+        "address": "osmo10c0c3c68wvhphuwce4ukwk3as34fza0pwu7vnt",
+        "amount": 2
+    },
+    {
+        "address": "osmo127gc8uwfxu0puc07c9q2lnnyv8trt0dwz2thh7",
+        "amount": 2
+    },
+    {
+        "address": "osmo13gfc7vp64lr8kcsyjpafskscuzeat49rtyc2mr",
+        "amount": 2
+    },
+    {
+        "address": "osmo16lvj0lyr6897zr2n8psa2esv09ewaelcd0tqvt",
+        "amount": 2
+    },
+    {
+        "address": "osmo17trs6jw2s2e4h0n62ur6reur0dc8ckkv5xv6t4",
+        "amount": 2
+    },
+    {
+        "address": "osmo18zx2cw39ynffgr22cykkz7fs9vq8su7mjzqktv",
+        "amount": 2
+    },
+    {
+        "address": "osmo1fu8sjaepp756aehawsggcunf8m233slnek9k2u",
+        "amount": 2
+    },
+    {
+        "address": "osmo1kya9wlejckspytzzqajlvruxmsm7dp39vxuxg5",
+        "amount": 2
+    },
+    {
+        "address": "osmo1ru9346jkcy762neudmnvuswpnl8jmkteadczny",
+        "amount": 2
+    },
+    {
+        "address": "osmo1azrjw348fw2uy2ycgmyk3xrm3tg3gl3dqum394",
+        "amount": 1
+    },
+    {
+        "address": "osmo1c45wvt2lpz3rwgnapw9aypq4zq9x9fhz6rf9yq",
+        "amount": 1
+    },
+    {
+        "address": "osmo1e3muvyvmrycggjsy8dfjcytcfprxtag8w54qv6",
+        "amount": 1
+    },
+    {
+        "address": "osmo1eq7uv2gp6u38vq9czh7nqjr4rqyf5sjmz2gemc",
+        "amount": 1
+    },
+    {
+        "address": "osmo1eyskfudz98a3nazsry37jcp75fd6xzkwwccw6g",
+        "amount": 1
+    },
+    {
+        "address": "osmo1ftk5tzu539mveg35uc6e0z067yy3d340ap2kyx",
+        "amount": 1
+    },
+    {
+        "address": "osmo1kmn7av6v5gs84dwur98tu57jgyzykkpr2anec3",
+        "amount": 1
+    },
+    {
+        "address": "osmo1ukycgxnt7d40yweda9lg38r68a7qnn5wszkw9c",
+        "amount": 1
+    },
+    {
+        "address": "osmo1zfdn9jpqkr4lcwpxredrxk2425s69cqx775akc",
+        "amount": 1
+    }
+]
